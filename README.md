@@ -16,4 +16,4 @@ This project uses popular Python libraries that can be installed via a requireme
 
 Alternatively, it can be started in the Anaconda environment (version 4.3.0, 64-bit) running Python 3.x.
 
-After installation, start Jupyter via running `jupyter notebook` and wait for a new tab to be opened in your default web browser. Then, open the notebook called `intro_to_machine_learning.ipynb`.
+After installation, start Jupyter via running `jupyter notebook` and wait for a new tab to be opened in your default web browser. Then, open the notebook called [intro_to_machine_learning.ipynb](intro_to_machine_learning.ipynb).
