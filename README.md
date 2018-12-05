@@ -2,22 +2,33 @@
 
 ## General Notes
 
-This project contains a Jupyter notebook introducing some very basic concepts of machine learning and the popular Iris classification case study.
+This project contains a Jupyter notebook introducing some very basic concepts
+of machine learning and the popular Iris classification case study.
 
-First, some simple linear algebra ideas are shown via examples with the numpy library. Then a so-called K-nearest-neighbor algorithm is trained to classify flower from the Iris dataset.
+First, some simple linear algebra ideas are shown via examples with the numpy
+library. Then a so-called K-nearest-neighbor algorithm is trained to classify
+flower from the Iris dataset.
 
 This intro is aimed at total beginners to programming and machine learning.
 
-It was used within a 90 minute workshop at the [WHU Campus for Supply Chain Management](http://campus-for-scm.de), which targets students of business administration and young management professionals.
+It was used within a 90 minute workshop at the
+[WHU Campus for Supply Chain Management](http://campus-for-scm.de), which
+targets students of business administration and young management professionals.
 
 ## Installation
 
-This project uses popular Python libraries that can be installed via a requirements.txt file. To do so, run `pip install -r requirements.txt`. It is recommended that a virtual environment be used. To do so, run `virtualenv --python=/usr/bin/python3 venv` on a Unix-like machine (Linux and iOS).
+This project uses popular Python libraries that can be installed via the
+pipenv command line tool. To do so, run `pipenv install` or
+`pipenv install --ignore-pipfile` (to use the exact environment as of the time
+of this writing). For a tutorial on pipenv, go to the official
+[documentation](https://pipenv.readthedocs.io/en/latest/).
 
-Alternatively, it can be started in the Anaconda environment (version 4.3.0, 64-bit) running Python 3.x.
-
-After installation, start Jupyter via running `jupyter notebook` and wait for a new tab to be opened in your default web browser. Then, open the notebook called [intro_to_machine_learning.ipynb](intro_to_machine_learning.ipynb).
+After installation, start Jupyter via the command `jupyter notebook` and wait
+for a new tab to be opened in your default web browser. Then, open the notebook
+called [intro_to_machine_learning.ipynb](intro_to_machine_learning.ipynb).
 
 ## Read-only Version
 
-For those interested in just reading the example codes without installing anything, just open this [notebook](intro_to_machine_learning.ipynb) and view the Jupyter notebook in your browser.
+For those interested in just reading the example codes without installing
+anything, just open this [notebook](intro_to_machine_learning.ipynb) and view
+the Jupyter notebook in your browser.
