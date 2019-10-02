@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "cscm-workshop-intro-machine-learning"
+version = "0.1.0"
+description = "An introductory workshop on machine learning for WHU's Campus for Supply Chain Management"
+authors = ["Alexander Hess <alexander@webartifex.biz>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+jupyter = "^1.0"
+numpy = "^1.17"
+matplotlib = "^3.1"
+pandas = "^0.25"
+scikit-learn = "^0.21"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
