@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "cscm-workshop-intro-machine-learning"
+name = "workshop-machine-learning-for-beginners"
 version = "0.1.0"
-description = "An introductory workshop on machine learning for WHU's Campus for Supply Chain Management"
+description = "An introductory workshop on machine learning"
 authors = ["Alexander Hess <alexander@webartifex.biz>"]
 license = "MIT"
 
@@ -11,7 +11,7 @@ jupyter = "^1.0"
 numpy = "^1.17"
 matplotlib = "^3.1"
 pandas = "^0.25"
-scikit-learn = "^0.21"
+scikit-learn = "^0.22"
 
 [tool.poetry.dev-dependencies]
 
