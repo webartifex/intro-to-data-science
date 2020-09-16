@@ -18,13 +18,13 @@ full-semester course **[Introduction to Python & Programming](https://github.com
 ## Installation
 
 To follow this workshop on your own computer, a working installation of
-**Python 3.6** or higher is required.
+**Python 3.7** or higher is required.
 
 A popular and beginner friendly way is to install the [Anaconda Distribution](https://www.anaconda.com/distribution/)
 that not only ships Python but comes pre-packaged with a lot of third-party
 libraries from the so-called "scientific stack".
 Just go to the [download](https://www.anaconda.com/distribution/#download-section)
-section and install the latest version (i.e., *2019-10* with Python 3.7 at the
+section and install the latest version (i.e., *2020-02* with Python 3.7 at the
 time of this writing) for your operating system.
 
 Then, among others, you will find an entry "Jupyter Notebook" in your start
