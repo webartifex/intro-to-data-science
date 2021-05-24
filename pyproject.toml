@@ -21,6 +21,10 @@ keywords = [
 ]
 license = "MIT"
 
+readme = "README.md"
+homepage = "https://github.com/webartifex/intro-to-data-science"
+repository = "https://github.com/webartifex/intro-to-data-science"
+
 [tool.poetry.dependencies]
 python = "^3.8"
 
