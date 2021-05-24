@@ -28,5 +28,6 @@ repository = "https://github.com/webartifex/intro-to-data-science"
 [tool.poetry.dependencies]
 python = "^3.8"
 jupyterlab = "^3.0.16"
+scikit-learn = "^0.24.2"
 
 [tool.poetry.dev-dependencies]
