@@ -1,50 +1,64 @@
-# Workshop: Machine Learning for Beginners
+# An Introduction to Data Science
 
-This repository contains the code for the workshop "Machine Learning for
-Beginners" as presented in various occasions at
-[WHU - Otto Beisheim School of Management](https://www.whu.edu), such as the
-[Campus for Supply Chain Management](https://www.campus-for-supply-chain-management-cscm.de/),
-[IdeaLab](https://www.idealab.io)'s [IdeaHack](http://www.ideahack.io), or
-within many [executive education](https://ee.whu.edu/) programs.
-
-
-## Prerequisites
-
-To be suitable for *total beginners*, there are *no* prerequisites.
-If you are interested to learn more after this workshop, check out the
-full-semester course **[Introduction to Python & Programming](https://github.com/webartifex/intro-to-python)**.
+This project is an introductory workshop
+    in **[Data Science <img height="12" style="display: inline-block" src="static/link/to_wiki.png">](https://en.wikipedia.org/wiki/Data_science)**
+    in the programming language **[Python <img height="12" style="display: inline-block" src="static/link/to_py.png">](https://www.python.org/)**.
+To learn about Python and programming in detail,
+    this [introductory course <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/webartifex/intro-to-python) is recommended.
 
 
-## Installation
+### Table of Contents
 
-To follow this workshop on your own computer, a working installation of
-**Python 3.7** or higher is required.
+- *Chapter 0*: [Python in a Nutshell](00_python_in_a_nutshell.ipynb)
+- *Chapter 1*: [Python's Scientific Stack](01_scientific_stack.ipynb)
+- *Chapter 2*: [A first Example: Classifying Flowers](02_a_first_example.ipynb)
+- *Chapter 3*: [Case Study: House Prices in Ames, Iowa <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/webartifex/ames-housing)
 
-A popular and beginner friendly way is to install the [Anaconda Distribution](https://www.anaconda.com/distribution/)
-that not only ships Python but comes pre-packaged with a lot of third-party
-libraries from the so-called "scientific stack".
-Just go to the [download](https://www.anaconda.com/distribution/#download-section)
-section and install the latest version (i.e., *2020-02* with Python 3.7 at the
-time of this writing) for your operating system.
 
-Then, among others, you will find an entry "Jupyter Notebook" in your start
-menu.
-Click on it and a new tab in your web browser will open where you can switch
-between folders as you could in your computer's default file browser.
+### Objective
 
-To download the course's materials as a ZIP file, click on the green "Clone or
-download" button on the top right on this website.
-Then, unpack the ZIP file into a folder of your choosing (ideally somewhere
-within your personal user folder so that the files show up right away).
+The **main goal** is to **show** students
+    how **Python** can be used to solve typical **data science** tasks.
+
+
+### Prerequisites
+
+To be suitable for *beginners*, there are *no* formal prerequisites.
+It is only expected that the student has:
+- a *solid* understanding of the **English** language and
+- knowledge of **basic mathematics** from high school.
+
+
+### Getting started & Installation
+
+To follow this workshop, an installation of **Python 3.8** or higher is expected.
+
+A popular and beginner friendly way is
+    to install the [Anaconda Distribution](https://www.anaconda.com/products/individual)
+    that not only ships Python itself
+    but also comes pre-packaged with a lot of third-party libraries
+    including [Python's scientific stack](https://scipy.org/about.html).
+
+Detailed instructions can be found [here <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/webartifex/intro-to-python#installation).
+
+
+## Contributing
+
+Feedback **is highly encouraged** and will be incorporated.
+Open an issue in the [issues tracker <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/webartifex/intro-to-data-science/issues)
+    or initiate a [pull request <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://help.github.com/en/articles/about-pull-requests)
+    if you are familiar with the concept.
+Simple issues that *anyone* can **help fix** are, for example,
+    **spelling mistakes** or **broken links**.
+If you feel that some topic is missing entirely, you may also mention that.
+The materials here are considered a **permanent work-in-progress**.
 
 
 ## About the Author
 
-Alexander Hess is a PhD student at the Chair of Logistics Management at the
-[WHU - Otto Beisheim School of Management](https://www.whu.edu) where he
-conducts research on urban delivery platforms and teaches an introductory
-course on Python (cf., [Fall Term 2019](https://vlv.whu.edu/campus/all/event.asp?objgguid=0xE57C2715B01B441AAFD3E79AA05CACCF&from=vvz&gguid=0x6A2B0ED5B2B949E69957A2099E7DE2F1&mode=own&tguid=0x3980A9BBC3BF4A638E977F2DC163F44B&lang=en),
-[Spring Term 2020](https://vlv.whu.edu/campus/all/event.asp?objgguid=0x3354F4C108FF4E959CDD692A325D9AFE&from=vvz&gguid=0x262E29795DD742CFBDE72B12B69CEFD6&mode=own&lang=en&tguid=0x2E4A7D1FF3C34AD08FF07685461781C9)).
+Alexander Hess is a PhD student
+    at the Chair of Logistics Management at [WHU - Otto Beisheim School of Management](https://www.whu.edu)
+    where he conducts research on urban delivery platforms
+    and teaches coding courses based on Python in the BSc and MBA programs.
 
-Connect him on [LinkedIn](https://www.linkedin.com/in/webartifex).
-
+Connect with him on [LinkedIn](https://www.linkedin.com/in/webartifex).
