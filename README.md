@@ -10,7 +10,7 @@ To learn about Python and programming in detail,
 ### Table of Contents
 
 - *Chapter 0*: [Python in a Nutshell](00_python_in_a_nutshell.ipynb)
-- *Chapter 1*: Python's Scientific Stack
+- *Chapter 1*: [Python's Scientific Stack](01_scientific_stack.ipynb)
 - *Chapter 2*: [A first Example: Classifying Flowers](02_a_first_example.ipynb)
 - *Chapter 3*: [Case Study: House Prices in Ames, Iowa <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/webartifex/ames-housing)
 
