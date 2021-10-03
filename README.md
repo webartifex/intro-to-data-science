@@ -11,8 +11,12 @@ To learn about Python and programming in detail,
 
 - *Chapter 0*: **Python in a Nutshell**
   - *Content*: [Basic Arithmetic](00_python_in_a_nutshell/00_content_arithmetic.ipynb)
+  - *Exercises*: [Python as a Calculator](00_python_in_a_nutshell/01_exercises_calculator.ipynb)
   - *Content*: [Business Logic](00_python_in_a_nutshell/02_content_logic.ipynb)
+  - *Exercises*: [Simple Loops](00_python_in_a_nutshell/03_exercises_loops.ipynb)
+  - *Exercises*: [Fizz Buzz](00_python_in_a_nutshell/04_exercises_fizz_buzz.ipynb)
   - *Content*: [Functions](00_python_in_a_nutshell/05_content_functions.ipynb)
+  - *Exercises*: [Volume of a Sphere](00_python_in_a_nutshell/06_exercises_volume.ipynb)
   - *Content*: [Data Types](00_python_in_a_nutshell/07_content_data_types.ipynb)
 - *Chapter 1*: [Python's Scientific Stack](01_scientific_stack/00_content.ipynb)
 - *Chapter 2*: [A first Example: Classifying Flowers](02_classification/00_content.ipynb)
