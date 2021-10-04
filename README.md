@@ -19,8 +19,9 @@ To learn about Python and programming in detail,
   - *Exercises*: [Volume of a Sphere](00_python_in_a_nutshell/06_exercises_volume.ipynb)
   - *Content*: [Data Types](00_python_in_a_nutshell/07_content_data_types.ipynb)
 - *Chapter 1*: [Python's Scientific Stack](01_scientific_stack/00_content.ipynb)
-- *Chapter 2*: [A first Example: Classifying Flowers](02_classification/00_content.ipynb)
-- *Chapter 3*: [Case Study: House Prices in Ames, Iowa <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/webartifex/ames-housing)
+- *Chapter 2*: **Time Series Analyis**
+- *Chapter 3*: [A first Example: Classifying Flowers](02_classification/00_content.ipynb)
+- *Chapter 4*: [Case Study: House Prices in Ames, Iowa <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/webartifex/ames-housing)
 
 
 ### Objective
