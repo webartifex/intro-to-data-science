@@ -40,3 +40,4 @@ scikit-learn = "^1.5"
 
 [tool.poetry.group.dev.dependencies]
 black = {extras = ["jupyter"], version = "^24.4"}
+invoke = "^2.2"
