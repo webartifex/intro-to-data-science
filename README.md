@@ -40,15 +40,20 @@ It is only expected that the student has:
 
 ### Getting started & Installation
 
-To follow this workshop, an installation of **Python 3.8** or higher is expected.
+To follow this workshop, an installation of **Python 3.9** or higher is expected.
 
 A popular and beginner friendly way is
-    to install the [Anaconda Distribution](https://www.anaconda.com/products/individual)
+    to install the [Anaconda Distribution](https://www.anaconda.com/download)
     that not only ships Python itself
     but also comes pre-packaged with a lot of third-party libraries
-    including [Python's scientific stack](https://scipy.org/about.html).
+    including [Python's scientific stack](https://scipy.org/).
 
 Detailed instructions can be found [here <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/webartifex/intro-to-python#installation).
+
+If you are *not* using the Anaconda Distribution,
+    you must install the third-party libraries via the command
+        `pip install -r requirements.txt` (or something equivalent)
+    before working with the notebook files.
 
 
 ## Contributing
