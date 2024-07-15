@@ -40,7 +40,7 @@ It is only expected that the student has:
 
 ### Getting started & Installation
 
-To follow this workshop, an installation of **Python 3.8** or higher is expected.
+To follow this workshop, an installation of **Python 3.9** or higher is expected.
 
 A popular and beginner friendly way is
     to install the [Anaconda Distribution](https://www.anaconda.com/products/individual)
