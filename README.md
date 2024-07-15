@@ -50,6 +50,11 @@ A popular and beginner friendly way is
 
 Detailed instructions can be found [here <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/webartifex/intro-to-python#installation).
 
+If you are *not* using the Anaconda Distribution,
+    you must install the third-party libraries via the command
+        `pip install -r requirements.txt` (or something equivalent)
+    before working with the notebook files.
+
 
 ## Contributing
 
